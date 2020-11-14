@@ -3,4 +3,23 @@
     <string name="app_name">AndroidAssignments</string>
     <string name="hello_message">Bonjour!</string>
     <string name="ButtonText">I\'m a button</string>
+    <string name="login">S\'identifier</string>
+    <string name="login_name">Nom d\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="login_password">login_password</string>
+    <string name="image">TODO</string>
+    <string name="radiobutton">Bouton radio</string>
+    <string name="checkbox">Case</string>
+    <string name="what_does_this_do">Quelles sont les répercussions</string>
+    <string name="log_in">S\'identifier</string>
+    <string name="camera_error" />
+    <string name="dialog_title" />
+    <string name="cancel" />
+    <string name="ok" />
+    <string name="dialog_message" />
+    <string name="add_image">Ajouter une image</string>
+    <string name="start_chat">Démarrer la discussion</string>
+    <string name="send_chat">Envoyer un Chat</string>
+    <string name="enter_message">Enter Un Message</string>
+
 </resources>
